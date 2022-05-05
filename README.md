@@ -1,3 +1,6 @@
+# Click PDF file Above to see my solution. 
+
+
 # NUIG-Data-Science-mini-assignment-using-R-
 
 
