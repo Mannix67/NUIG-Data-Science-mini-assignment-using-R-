@@ -1,0 +1,1 @@
+# NUIG-Data-Science-mini-assignment-using-R-
